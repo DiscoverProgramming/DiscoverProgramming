@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DiscoverProgramming</h1>
-<h3 align="center">I have a passion for software engineering in a variety of languages from the US. Some of these include Python, Java, HTML, and CSS.</h3>
+<h3 align="center">I have a passion for programming in a variety of languages from the US. Some of these include Python, Java, HTML, and CSS.</h3>
 
 <!---
 DiscoverProgramming/DiscoverProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
