@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DiscoverProgramming</h1>
-<h3 align="center">I am a <i>self-taught</i> programmer with experience in HTML, CSS, JavaScript, Python, and Java.</h3>
+<h1 align="center">Welcome</h1>
+<h3 align="center">I make computers do stuff.</h3>
 
 <!---
 DiscoverProgramming/DiscoverProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
